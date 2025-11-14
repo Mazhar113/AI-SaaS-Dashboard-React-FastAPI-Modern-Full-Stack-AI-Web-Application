@@ -14,5 +14,3 @@ This project demonstrates a clean, scalable architecture for building AI-powered
 - 🚀 Easy to deploy (Docker / Render / Railway ready)  
 
 ---
-
-## 📁 Project Structure
